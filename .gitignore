@@ -182,3 +182,8 @@ cython_debug/
 
 #my "backup directory of functional code"
 /functional_versions
+
+#the brain of the AI
+/brain
+
+#backup for creating conda environment (includes the wheel -- see notes.txt!)
