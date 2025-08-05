@@ -187,3 +187,4 @@ cython_debug/
 /brain
 
 #backup for creating conda environment (includes the wheel -- see notes.txt!)
+/llama-env-backup
